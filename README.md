@@ -2,7 +2,7 @@
 
 **Student Name:** Hemant Jagnani  
 **Student Roll Number:** `BT2024226`  
-**Course:** 5th Semester B.Tech (CSE) — Machine Learning  
+**Course:** Machine Learning  
 **GitHub Repository:** [https://github.com/HemantJagnani/ML_Assignment1](https://github.com/HemantJagnani/ML_Assignment1)  
 
 ---
